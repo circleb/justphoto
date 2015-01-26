@@ -1,0 +1,9 @@
+.navbar-fixed-top {
+    top: 32px;
+}
+
+
+.wp-core-ui #publishing-action .button.button-large {
+    font-size: 28px;
+    height: 50px;
+}
