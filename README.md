@@ -5,6 +5,7 @@ I built this theme because I searched the entire web for a theme that truely foc
 Demos
 ---------------
 Here's the theme website: www.justphotowp.com
+
 Here's my photography website that's using the theme: www.circlebphoto.com
 
 
